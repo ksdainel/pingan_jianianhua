@@ -1,0 +1,1 @@
+{"type":"Dialog","props":{"width":640,"height":1136},"compId":1,"child":[{"type":"Button","props":{"y":216,"x":441,"stateNum":1,"skin":"start/closebtn.png"},"compId":2}],"loadList":["start/closebtn.png"],"loadList3D":[],"components":[]}

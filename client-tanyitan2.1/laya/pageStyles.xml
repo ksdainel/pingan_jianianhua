@@ -1,0 +1,19 @@
+<page>
+   <item name="test/TestScene.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="start/StartView1.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="start/StartView.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="start/StartScene.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="start/RuleView.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="start/SignView.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="start/StartViewSkin.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="game/GameScence.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="game/GameViewSkin.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="start/SignViewSkin.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="start/RuleViewSkin.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="lottery/LotteryViewSkin.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="lottery/LotteryRuleSkin.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="game/GamePauseSkin.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="game/GameOverSkin1.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="game/GameOverSkin2.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="game/GameOverSkin3.scene" props="" ifExport="内嵌模式" aName=""/>
+</page>
